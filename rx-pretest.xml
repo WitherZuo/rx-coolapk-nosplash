@@ -1,0 +1,18 @@
+<prescriptions xmlns="http://greenify.github.io/schemas/prescription/v2">
+  <prescription xmlns="http://greenify.github.io/schemas/prescriptiom/v2"
+    type="service"
+    sender="any"
+    package="com.baidu.netdisk">
+    <intent-filter>
+        <action name="android.intent.action.RESPOND_VIA_MESSAGE" />
+    </intent-filter>
+  </prescription>
+  <prescription xmlns="http://greenify.github.io/schemas/prescriptiom/v2" 
+    type="service"
+    sender="any"
+    package="com.baidu.netdisk">
+    <intent-filter>
+        <action name="com.baidu.android.pushservice.action.PUSH_SERVICE" />
+    </intent-filter>
+  </prescription>
+</prescriptions>
