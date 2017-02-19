@@ -1,4 +1,4 @@
-# rx-cleanmaster-broadcasts
-For CleanMaster app published by CHEETAH MOBILE 
+# rx-coolapk-nosplash
+Disable the splash when CoolApk started.    
 
-导入处方 暂时不提供导入！
+导入处方 https://greenify.github.io/WitherZuo/rx-coolapk-nosplash
