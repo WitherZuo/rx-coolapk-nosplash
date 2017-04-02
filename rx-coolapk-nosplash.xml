@@ -1,7 +1,4 @@
-<prescription xmlns="http://greenify.github.io/schemas/prescription/v2"
-  type="activity"
-  sender="any"
-  package="com.coolapk.market"
-  class="com.coolapk.market.view.photo.SplashActivity">
-</prescription>
+<prescriptions xmlns="http://greenify.github.io/schemas/prescription/v3">
+  <prescription type="activity" package="com.coolapk.market" class="com.coolapk.market.view.photo.SplashActivity" sender="any" />
+</prescriptions>
     	
